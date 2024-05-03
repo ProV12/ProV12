@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @ProV12
+- 👀 I’m interested in Programming / Playing guitar
+- 🌱 I’m currently learning Python
