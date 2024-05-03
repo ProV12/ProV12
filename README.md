@@ -1,1 +1,1 @@
-Soon there will be some programms
+Soon there will be an program
